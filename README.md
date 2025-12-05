@@ -15,7 +15,7 @@ Built collaboratively with **Cursor AI**, **Canva AI**, and customized by me.
 
 ## 📂 Project Structure
 
-index.html ## Single file template (HTML, CSS, JS inline)
+index.html **Single file template (HTML, CSS, JS inline)**
 
 ---
 
