@@ -15,7 +15,7 @@ Built collaboratively with **Cursor AI**, **Canva AI**, and customized by me.
 
 ## 📂 Project Structure
 
-index.html   # Single file template (HTML, CSS, JS inline
+index.html ## Single file template (HTML, CSS, JS inline)
 
 ---
 
@@ -45,12 +45,4 @@ index.html   # Single file template (HTML, CSS, JS inline
 
 ---
 
-## ⚖️ License
-This project is currently **copyrighted**.  
-Feel free to view and learn from the code, but please ask before reusing or redistributing.  
-
----
-
-## 💡 Notes
-This template is meant as a **starting point** for building stylish educational websites.  
-Future versions may include multi‑page support, responsive layouts, and more advanced features.
+Thanks for reading :D!!
