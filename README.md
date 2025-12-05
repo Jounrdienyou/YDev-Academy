@@ -34,7 +34,7 @@ index.html **Single file template (HTML, CSS, JS inline)**
 ---
 
 ## 📸 Preview
-*(Add a screenshot or demo GIF here if possible)*
+(./assets/preview.png)
 
 ---
 
